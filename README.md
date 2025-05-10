@@ -10,16 +10,16 @@ Each chapter contains key concepts, code examples, and exercises derived from or
 
 ## 📚 Chapters
 
-- [Chapter 1](./chapter_1) — Introduction to Computers and Programming
-- [Chapter 2](./chapter_2) — Overview of C
-- [Chapter 3](./chapter_3) — Top-Down Design with Functions
-- [Chapter 4](./chapter_4) — Selection Structures: if and switch Statements
-- [Chapter 5](./chapter_5) — Repetition and Loop Statements
-- [Chapter 6](./chapter_6) — Modular Programming with Functions
-- [Chapter 7](./chapter_7) — Arrays
-- [Chapter 8](./chapter_8) — Strings and Text Processing
-- [Chapter 9](./chapter_9) — Pointers and Address Arithmetic
-- [Chapter 10](./chapter_10) — Structures and File Processing *(if covered)*
+- [Chapter 2](./Chapter_2) — Overview of C
+- [Chapter 3](./Chapter_3) — Top-Down Design with Functions
+- [Chapter 4](./Chapter_4) — Selection Structures: if and switch Statements
+- [Chapter 5](./Chapter_5) — Repetition and Loop Statements
+- [Chapter 6](./Chapter_6) — Pointers and Modular Programming
+- [Chapter 7](./Chapter_7) — Array Pointers
+- [Chapter 8](./Chapter_8) — Strings
+- [Chapter 9](./Chapter_9) — Recursion
+- [Chapter 10](./Chapter_10) — Structure and Union Types
+- [Chapter_11](./Chapter_11) - Text and Binary File Pointers
 
 > 📌 This repository is part of a personal study project and is not intended to replace the textbook.  
 > Please consider getting the original book for in-depth explanations and exercises.
