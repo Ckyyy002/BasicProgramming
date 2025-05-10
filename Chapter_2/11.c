@@ -13,10 +13,10 @@ int main() {
         s1 = pow(m, 2) - pow(n, 2);
         s2 = 2 * m * n;
         h = pow(m, 2) + pow(n, 2);
-            if(s1 <= 0 || s2 <= 0){
+            if (s1 <= 0 || s2 <= 0) {
                 printf("The Phytagorean triple can't be found");
             }
-            else{
+            else {
                 printf("The length of side 1 is %d\n", s1);
                 printf("The length of side 2 is %d\n", s2);
                 printf("The length of hypotenuse is %d\n", h);
